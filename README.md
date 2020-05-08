@@ -18,3 +18,19 @@ index	value
 3	13.68
 4	13.8
 ```
+
+
+## Build
+
+Clone the repository and build `passhead` with make:
+
+```console
+git clone https://github.com/snsinfu/passhead
+cd passhead
+make
+```
+
+
+## License
+
+MIT License
